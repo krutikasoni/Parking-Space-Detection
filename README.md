@@ -1,6 +1,3 @@
-# Parking-Space-Detection
-Developed a smart parking system using YOLOv8 to detect occupied vs. empty spots in real-time. Deployed a user-friendly web app using Streamlit for instant visual feedback and mobile accessibility.
-
 # Smart Parking Space Detection (YOLOv8 + Streamlit Deployment)
 
 Developed a real-time parking space detection system using YOLOv8 and deployed it via Streamlit. This project helps drivers and parking authorities monitor empty vs. occupied parking slots using just overhead images, eliminating the need for costly physical sensors.
